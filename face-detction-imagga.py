@@ -6,7 +6,7 @@ url="https://api.imagga.com/v2/faces/detections"
 querystr={"image_url":"https://www.recruitmentplus.ie/wp-content/uploads/2017/10/group-photo.jpg"}
 headers={
     'accept':"application/json",
-    'authorization': "Basic YWNjX2QzZmI3ZjU0OTI2OTFmYTphODlhMmM3NGY4ZTllYWJhOTE3NTNiMjVmOGQ4ZDYxMg=="
+    'authorization': "Basic =="
 }
 
 
