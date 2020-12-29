@@ -6,7 +6,7 @@ url="https://api.imagga.com/v2/categorizers"
 querystr={"image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2dJ8FhuEHJzFAWsmqTAc1izd91dc03gLuqA&usqp=CAU "}
 headers={
     'accept':"application/json",
-    'authorization': "Basic YWNjX2QzZmI3ZjU0OTI2OTFmYTphODlhMmM3NGY4ZTllYWJhOTE3NTNiMjVmOGQ4ZDYxMg=="
+    'authorization': "Basic=="
 }
 
 
